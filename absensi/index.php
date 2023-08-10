@@ -13,7 +13,7 @@ include('../app/functions/date_formatter.php');
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>SIMPANAN | Absensi</title>
+    <title>SIMPANAN | Abnsi</title>
     <link rel="stylesheet" href="<?= $BASE_URL ?>css/styles.css" />
 </head>
 
